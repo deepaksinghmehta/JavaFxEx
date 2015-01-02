@@ -40,6 +40,7 @@ public class MainApp extends Application {
         personData.add(new Person("Stefan", "Meier"));
         personData.add(new Person("Martin", "Mueller"));
     }
+    
 
     /**
      * Returns the data as an observable list of Persons. 
